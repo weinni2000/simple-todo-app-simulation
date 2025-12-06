@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #333;
+}
+
+#todo-input {
+    padding: 10px;
+    margin-right: 5px;
+}
+
+button {
+    padding: 10px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.completed {
+    text-decoration: line-through;
+    color: grey;
+}
